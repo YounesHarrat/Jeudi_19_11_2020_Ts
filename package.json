@@ -1,0 +1,15 @@
+{
+  "name": "jeudi_19_11_2020_ts",
+  "version": "1.0.0",
+  "description": "cours typescript with cmd ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "'\u0016https://github.com/YounesHarrat/Typesript_Training'"
+  },
+  "author": "Younesharrat\u001b[D\u001b[D\u001b[D\u001b[D\u001b[H",
+  "license": "ISC"
+}
